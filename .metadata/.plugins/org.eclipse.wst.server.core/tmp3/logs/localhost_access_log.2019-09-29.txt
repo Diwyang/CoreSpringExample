@@ -1,0 +1,13 @@
+127.0.0.1 - - [29/Sep/2019:01:03:14 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:01:03:18 +0530] "GET /Spring-MVC-Demo/ HTTP/1.1" 200 203
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:01:03:26 +0530] "GET /Spring-MVC-Demo/student/showForm HTTP/1.1" 200 415
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:01:03:35 +0530] "POST /Spring-MVC-Demo/student/processForm HTTP/1.1" 200 152
+127.0.0.1 - - [29/Sep/2019:01:12:17 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:01:12:18 +0530] "GET /Spring-MVC-Demo/ HTTP/1.1" 200 203
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:01:12:23 +0530] "GET /Spring-MVC-Demo/student/showForm HTTP/1.1" 500 5817
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:01:14:28 +0530] "GET /Spring-MVC-Demo/student/showForm HTTP/1.1" 200 688
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:01:14:38 +0530] "POST /Spring-MVC-Demo/student/processForm HTTP/1.1" 200 175
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:01:20:58 +0530] "GET /Spring-MVC-Demo/student/showForm HTTP/1.1" 200 1072
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:01:21:10 +0530] "POST /Spring-MVC-Demo/student/processForm HTTP/1.1" 200 210
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:01:25:41 +0530] "GET /Spring-MVC-Demo/student/showForm HTTP/1.1" 200 1578
+0:0:0:0:0:0:0:1 - - [29/Sep/2019:01:26:05 +0530] "POST /Spring-MVC-Demo/student/processForm HTTP/1.1" 200 294

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Spring-MVC-Demo-Form-Data-RequestParam/WebContent/WEB-INF/Spring-MVC-Demo-Form-Data-servlet.xml&apos; to &apos;Spring-MVC-Demo-Form-Data-RequestParam.xml&apos;" description="Rename resource &apos;Spring-MVC-Demo-Form-Data-servlet.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/WEB-INF/Spring-MVC-Demo-Form-Data-servlet.xml" name="Spring-MVC-Demo-Form-Data-RequestParam.xml" stamp="1569697077393" updateReferences="true"/>
+</session>

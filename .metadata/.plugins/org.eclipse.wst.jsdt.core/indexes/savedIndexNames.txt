@@ -1,0 +1,13 @@
+INDEX VERSION 1.4+C:\Workspaces\Spring_Strudy_WS\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2817443062.index
+1987439763.index
+1361390788.index
+2329820783.index
+3414466803.index
+1677566165.index
+994074550.index
+3456827942.index
+872038226.index
+78120076.index
+3650391611.index
+1450029618.index

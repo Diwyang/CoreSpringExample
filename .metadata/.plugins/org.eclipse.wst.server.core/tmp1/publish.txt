@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sun Sep 29 00:07:29 IST 2019
+org.eclipse.jst.jee.server\:/binary\:C\:\\Workspaces\\Spring_Strudy_WS\\Spring-MVC-Demo-Form-Data\\WebContent\\WEB-INF\\lib\\spring-web-5.1.9.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.1.9.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Workspaces\\Spring_Strudy_WS\\Spring-MVC-Demo-Form-Data\\WebContent\\WEB-INF\\lib\\spring-web-5.1.9.RELEASE.jar=WEB-INF/lib/spring-web-5.1.9.RELEASE.jar

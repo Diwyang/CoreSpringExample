@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Spring-MVC-Demo-Form-Validator/WebContent/WEB-INF/Spring-MVC-Demo-FormTags-DataBindings-servlet.xml&apos; to &apos;Spring-MVC-Demo-Form-Validator-servlet.xml&apos;" description="Rename resource &apos;Spring-MVC-Demo-FormTags-DataBindings-servlet.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/WEB-INF/Spring-MVC-Demo-FormTags-DataBindings-servlet.xml" name="Spring-MVC-Demo-Form-Validator-servlet.xml" stamp="1570291905168" updateReferences="true"/>
+</session>

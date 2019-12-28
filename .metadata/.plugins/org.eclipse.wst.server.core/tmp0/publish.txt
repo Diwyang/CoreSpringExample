@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Sat Sep 28 23:46:52 IST 2019
+org.eclipse.jst.jee.server\:/binary\:C\:\\Workspaces\\Spring_Strudy_WS\\Spring-MVC-Demo-Form-Data\\WebContent\\WEB-INF\\lib\\spring-web-5.1.9.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.1.9.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Workspaces\\Spring_Strudy_WS\\Spring-MVC-Demo\\WebContent\\WEB-INF\\lib\\spring-web-5.1.9.RELEASE.jar=WEB-INF/lib/spring-web-5.1.9.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Workspaces\\Spring_Strudy_WS\\Spring-MVC-Demo\\WebContent\\WEB-INF\\lib\\spring-web-5.1.9.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.1.9.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Workspaces\\Spring_Strudy_WS\\Spring-MVC-Demo-Form-Data\\WebContent\\WEB-INF\\lib\\spring-web-5.1.9.RELEASE.jar=WEB-INF/lib/spring-web-5.1.9.RELEASE.jar
